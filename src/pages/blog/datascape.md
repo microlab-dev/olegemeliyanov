@@ -1,22 +1,20 @@
 ---
-layout: ../../layout/MarkdownLayout.astro
-title: "Introducing DataScape: Data analysis tool"
-description: "A data visualization and analysis tool that allows users to easily explore and understand large datasets."
-pubDate: 2022-12-12
-tags: ["web", "sqlite", "python"]
+title: 'Introducing TrueLite: Ultra Lite Aircraft'
+tags: ["astro", "blogging", "learning in public"]
+pubDate: 2022-07-01
 ---
 
-# Datascape
+# TrueLite
 
-**DataScape** - A powerful data visualization and analysis tool
+**TrueLite** - An Ultra Lite Aircraft
 
 DataScape is a user-friendly tool that enables individuals and businesses to easily explore and understand large datasets. With its intuitive interface and powerful features, DataScape is quickly becoming the go-to choice for data analysts and professionals alike.
 
 Some of the key features of DataScape include:
 
-- **Interactive visualizations**: DataScape allows users to create a variety of interactive charts and graphs to better understand the trends and patterns in their data.
-- **Real-time data analysis**: Users can instantly filter, sort, and aggregate their data to uncover valuable insights.
-- **Collaboration tools**: DataScape includes features such as shared projects and commenting to facilitate collaboration among team members.
+* **Interactive visualizations**: DataScape allows users to create a variety of interactive charts and graphs to better understand the trends and patterns in their data.
+* **Real-time data analysis**: Users can instantly filter, sort, and aggregate their data to uncover valuable insights.
+* **Collaboration tools**: DataScape includes features such as shared projects and commenting to facilitate collaboration among team members.
 
 Here is a code sample in Python to demonstrate how to connect to a dataset and create a basic line chart:
 
