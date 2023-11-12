@@ -13,6 +13,6 @@ import { astroImageTools } from "astro-imagetools";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://olegemeliyanov.pages.dev/",
+  site: "https://oleg.emeliyanov.it/",
   integrations: [tailwind(), astroImageTools, sitemap(), prefetch({ throttle: 3 })],
 });
